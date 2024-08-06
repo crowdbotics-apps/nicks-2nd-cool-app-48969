@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0ebbe6dc81541d7f983e6997cbd11e584b594414d44aaa81d18674ff2e3b05a5"
+            "sha256": "91e43ec2bc0f9ae9c344c99bc7b93e9d54b1770cabaddb54a80a4a692e9fe6d8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -107,6 +107,10 @@
         "cb-django-disqus": {
             "editable": true,
             "path": "./modules/django_disqus"
+        },
+        "cb-django-openai": {
+            "editable": true,
+            "path": "./modules/django_openai"
         },
         "certifi": {
             "hashes": [
